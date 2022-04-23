@@ -1,9 +1,9 @@
 # ClientServerDevelopment
 1. **How do you write programs that are maintainable, readable, and adaptable? Especially consider your work on the CRUD Python module from Project One, which you used to connect the dashboard widgets to the dashboard in Project Two. What are the advantages to working in this way? How else could you use this CRUD Python module in the future?**
-
+When writing code, it is important to include comments not only so you as the developer know what is going on with the code, but so whoever comes after you and uses or modifies the exisiting code knows what the code is attempting to accomplish and thus has an easier time. The code that was used in the CRUD Python module can be easily adapted and reused in most any database that require you to create, read, update, or delete data from that database.
 
 2. **How do you approach a problem as a computer scientist? Consider how you approach the database or dashboard requirements that Grazioso Salvare requested. How did your approach to this problem differ from previous assignments in other courses? What techniques or stragies would you use in the future to create databases to meet other client requests?**
-
+As a computer scientist, problem solving is an important aspect of the thought process. I begin by researching the problem and making sure that I understand what the problem is asking me to do. If I need to, I will break the problem down into smaller problems and solve those first and use those answers to help solve the larger problem. I then begin writing the code that solves my small problems first, and then use that code to write the code that solves the larger problem. 
 
 3. **What do computer scientists do, and why does it matter? How would your work on this type of project help a company, like Grazioso Salvare, to do their work better?**
-
+Computer scientists use computers to solve problems that would otherwise be impossible, or take an atrocious amount of time because of how quickly computers can work with extremely large datasets. 
